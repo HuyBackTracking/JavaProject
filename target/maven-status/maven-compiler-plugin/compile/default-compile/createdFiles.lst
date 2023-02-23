@@ -1,0 +1,7 @@
+model\Author.class
+view\Menu.class
+model\Book.class
+control\DataController.class
+view\Main.class
+view\Main$1.class
+control\BookAuthorManagement.class
